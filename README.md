@@ -19,10 +19,14 @@
 
 デモアプリ
 --------
-ソースコードは別リポジトリで  
-https://github.com/e135753/app_FlipByBlink  
-Appstoreでデモアプリ公開中  
-https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8  
+ソースコードは別リポジトリで
+
+[link](https://github.com/e135753/app_FlipByBlink)  
+
+Appstoreでデモアプリ公開中
+
+[link](https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8)
+
 FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)など。
 
 中間予稿
@@ -31,8 +35,9 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 何か指摘、感想、アドバイスあれば
 ----------------------
-本ドキュメントのgithubのissuesにどうぞ。  
-https://github.com/e135753/document_FlipByBlink/issues
+本ドキュメントのgithubのissuesにどうぞ。
+
+[link](https://github.com/e135753/document_FlipByBlink/issues)
 
 その他
 -----

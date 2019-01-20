@@ -50,7 +50,8 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 研究テキスト
 =============
-工事中
+[研究論文は別ページ](research/paper)
+[雑多な研究メモはこちら](research/memo)
 
 実験
 ======

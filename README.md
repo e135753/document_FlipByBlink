@@ -50,9 +50,9 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 研究テキスト
 =============
-[研究論文は別ページ](research/paper)
+[研究論文は別ページ](https://e135753.github.io/document_FlipByBlink/research/paper.md)
 
-[雑多な研究メモはこちら](research/memo)
+[雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
 実験
 ======

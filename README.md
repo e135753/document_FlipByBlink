@@ -24,7 +24,7 @@
 =============
 [**研究論文web版(編集中)はこちら**](https://e135753.github.io/document_FlipByBlink/research/paper)
 
-研究論文PDFはこちら(180220頃掲載予定)
+研究論文PDFはこちら(0220頃掲載予定)
 
 [雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
@@ -34,19 +34,17 @@
 
 ☑︎ デモアプリをAppStoreで公開
 
-☐ 実験概要作成
+☐ 実験概要 作成
 
 ☐ デモアプリを用いて実験
 
-☐ 論文執筆
+☐ 論文執筆 本格的に開始
 
-☐ 卒研最終発表スライド作成
-
-☐ 190213 予稿PDF提出
+☐ 卒研最終発表 準備開始
 
 ☐ 190220 卒研最終発表
 
-☐ 190221 卒論PDF提出
+☐ 卒論完成 190221〆
 
 デモアプリ
 ========
@@ -81,6 +79,5 @@ https://e135753.github.io/document_FlipByBlink/
 [本ドキュメントのGitHubのissues](https://github.com/e135753/document_FlipByBlink/issues)
 
 にどうぞ。
-
 
 ٩( ᐛ )و

@@ -1,6 +1,6 @@
 電子書籍まばたきUI_研究資料まとめ
 ============================
-ある学部生の現在進行中の卒業研究の公開ページ。卒論のweb版的な感じ。
+ある学部生の現在進行中の卒業研究の公開ページ。卒研のweb版的な感じ。
 
 ![イメージ図](flow.png)
 
@@ -22,7 +22,7 @@
 =============
 [研究論文web版(編集中)はこちら](https://e135753.github.io/document_FlipByBlink/research/paper)
 
-卒業論文PDFはこちら(180220頃掲載予定)
+研究論文PDFはこちら(180220頃掲載予定)
 
 [雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
@@ -68,7 +68,7 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 ------------------
 本ドキュメントはGitHubで管理。
 
-見やすい静的サイトとしてGitHub Pagesで以下のURLで公開。
+見やすい静的サイトとしてGitHub Pagesで以下のURLでも公開。
 
 https://e135753.github.io/document_FlipByBlink/
 

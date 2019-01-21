@@ -12,11 +12,19 @@
 
 目次
 =================
-- 研究の進捗状況
+- 研究テキスト
+- 進捗状況
 - デモアプリ作った
-- 研究の実際の中身
 - もうすぐやる予定の実験について
 - その他、雑多
+
+研究テキスト
+=============
+[研究論文web版(編集中)はこちら](https://e135753.github.io/document_FlipByBlink/research/paper)
+
+卒業論文PDFはこちら(180220頃掲載予定)
+
+[雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
 進捗
 ============
@@ -48,12 +56,6 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 本ドキュメントとは別リポジトリとしてOSS的なアレとして。
 
-研究テキスト
-=============
-[研究論文は別ページ](https://e135753.github.io/document_FlipByBlink/research/paper)
-
-[雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
-
 実験
 ======
 工事中
@@ -64,14 +66,13 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 本ドキュメントについて
 ------------------
-
 本ドキュメントはGitHubで管理。
 
 見やすい静的サイトとしてGitHub Pagesで以下のURLで公開。
 
 https://e135753.github.io/document_FlipByBlink/
 
-このドキュメントは卒論完成したら凍結して恒久的に公開予定。OSS的にMITっぽいアレな感じで。
+本ドキュメントリポジトリは卒論完成したら凍結して放置して恒久的に公開予定。OSS的にMITっぽいアレな感じで。
 
 何か指摘、感想、アドバイスあれば
 
@@ -79,4 +80,5 @@ https://e135753.github.io/document_FlipByBlink/
 
 にどうぞ。
 
-[中間予稿のPDF。](中間予稿.pdf)
+
+٩( ᐛ )و

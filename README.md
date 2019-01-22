@@ -58,7 +58,7 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 実験
 ======
-[実験概要](experiment/exp_mindmap.png)
+[実験概要](experiment/exp_memo.md)
 
 実験手順書(まだ
 

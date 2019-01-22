@@ -28,7 +28,7 @@
 
 [雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
-[マインドマップ(まだ)]()
+![マインドマップ](research/research_mindmap.png)
 
 進捗
 ============
@@ -67,6 +67,8 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 実験のアンケート(まだ
 
 実験結果(まだ
+
+![マインドマップ](experiment/exp_mindmap.png)
 
 その他
 ==========

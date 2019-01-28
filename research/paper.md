@@ -118,7 +118,7 @@ Eike Langbehn, Frank Steinicke, Markus Lappe, Gregory F. Welch, Gerd Bruder 2018
 
 公開情報
 ----------
-本論文や研究資料はオープンソース的な感じで以下のURLで公開。
+本論文や研究資料はオープンアクセス的な感じで以下のURLで公開。
 
 https://e135753.github.io/document_FlipByBlink/
 

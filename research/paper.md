@@ -113,6 +113,16 @@ Eike Langbehn, Frank Steinicke, Markus Lappe, Gregory F. Welch, Gerd Bruder 2018
 
 田多英興, 山田冨美雄, 福田恭介編著 1991.1 "まばたきの心理学 : 瞬目行動の研究を総括する" 北大路書房
 
-付録?
+付録
 =====
-????
+
+公開情報
+----------
+本論文や研究資料はオープンソース的な感じで以下のURLで公開。
+
+https://e135753.github.io/document_FlipByBlink/
+
+デモアプリのソースコードはオープンソース的な感じで以下のURLで公開。
+
+https://github.com/e135753/app_FlipByBlink
+

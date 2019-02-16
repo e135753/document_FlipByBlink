@@ -2,7 +2,7 @@
 
 ![](demoGIF.GIF)
 
-*最終的には本ページの内容をTex向けに再構成したものを卒業論文とする。本ページの進捗30%。まだ殴り書き状態。*
+*最終的には本ページの内容をTex向けに再構成したものを卒業論文とする。本ページの進捗50%。まだ殴り書き状態。*
 
 "随意性瞬目による電子書籍ページめくりUIの提案"
 ========================================
@@ -10,11 +10,11 @@
 
 Abstract(ja)
 ------------
-本論文では「閉瞼をわずかに継続した随意性瞬目を用いた電子書籍ページめくりUI」の提案・考察・デモアプリ作成・検証を行う。目的は様々なユースケースが存在する電子書籍の特性に沿った汎用的なページ送り方法の発明である。現在の電子書籍UIの課題や、本手法の実現可能性、ユースケース、他分野への応用を考察する。デモとしてiPad向けアプリを作成した。そのデモアプリの使い勝手は本提案が想定していた通りのものとなった。またデモアプリを用いて通常の電子書籍UIとの対照実験を行なった(実際にはまだ実験を行ってない)。実験結果を通して本提案の有用性を確認した。
+本論文では「閉瞼をわずかに継続した随意性瞬目を用いた電子書籍ページめくりUI」の提案・考察・デモアプリ作成・検証を行う。目的は様々なユースケースが存在する電子書籍の特性に沿った汎用的なページ送り方法の発明である。現在の電子書籍UIの課題や、本手法の実現可能性、ユースケース、他分野への応用を考察する。デモとしてiPad向けアプリを作成した。そのデモアプリの使い勝手は本提案が想定していた通りのものとなった。またデモアプリを用いて通常の電子書籍UIとの対照実験を行なった。実験結果を通して本提案の有用性を確認した。
 
 Abstract(en)
 ------------
-aaaa
+This paper attempts to propose, discuss, develop, evaluate about "new UI for ebook by flipping by voluntary blink".  The purpose of this study is invention of generic UI optimized for turning a page of ebook. We discuss about proposal over a wide range. We produce experimentally application for iPad. Usability of the app is so good. There are control experiment between standard UI and new UI proposed. The result of our experiment clearly shows the significance of proposed method.
 
 はじめに
 ======

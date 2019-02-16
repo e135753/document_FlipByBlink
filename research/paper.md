@@ -14,7 +14,7 @@ Abstract(ja)
 
 Abstract(en)
 ------------
-As for "new UI for ebook by flipping by voluntary blink", this paper attempts to propose, and discuss, and develop prototype, evaluate it.  The purpose of this study is invention of generic UI optimized for turning a page of ebook. We discuss about proposal over a wide range. We produce experimentally application for iPad. Usability of the app is so good. There are control experiment between standard UI and new UI proposed. The result of our experiment clearly shows the significance of proposed method.
+As for "new UI for ebook by flipping by voluntary blink", this paper attempts to propose, and discuss, and develop prototype, and evaluate it.  The purpose of this study is invention of generic UI optimized for turning a page of ebook. This report discuss about proposal over a wide range. We produce experimentally application for iPad. Usability of the app is so good. There are control experiment between standard UI and new UI proposed. The result of our experiment clearly shows the significance of proposed method.
 
 はじめに
 ======

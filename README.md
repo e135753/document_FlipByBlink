@@ -30,6 +30,8 @@ texで完成版の修正しているためtex版完成後web版を更新する
 
 研究論文PDFはこちら(1903頃掲載予定)
 
+[最終発表スライドPDF](research/presentation.pdf)
+
 [雑多な研究メモはこちら](https://e135753.github.io/document_FlipByBlink/research/memo)
 
 進捗

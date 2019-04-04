@@ -1,6 +1,6 @@
 研究資料まとめ
 ============================
-ある学部生の現在進行中の卒業研究の公開ページ。
+ある学部生の卒業研究の公開ページ。
 
 ![デモGif](research/demoGIF.GIF)
 
@@ -28,7 +28,9 @@
 
 texで完成版の修正しているためtex版完成後web版を更新する
 
-研究論文PDFはこちら(1903頃掲載予定)
+[☆☆☆研究論文paperPDFはこちら](research/135753B_dissertation_190404.pdf)
+
+190404 初版から大幅に加筆・修正を行った
 
 [最終発表スライドPDF](research/presentation.pdf)
 
@@ -41,11 +43,13 @@ texで完成版の修正しているためtex版完成後web版を更新する
 
 ☑︎ 卒論提出 190221〆
 
-☐ 卒論の追加改善作業 1903初旬完成予定
+☑︎ 卒論の追加改善作業 190404完成
+
+☐ 色々後片付けをする
 
 デモアプリ
 ========
-[AppStoreでデモアプリを公開。](https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8)
+[☆AppStoreでデモアプリを公開。](https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8)
 
 FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)など。
 

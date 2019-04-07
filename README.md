@@ -24,11 +24,11 @@
 
 研究テキスト
 =============
-[**研究論文web版(編集停止中)はこちら**](https://e135753.github.io/document_FlipByBlink/research/paper)
+[研究論文web版(編集停止中)はこちら](https://e135753.github.io/document_FlipByBlink/research/paper)
 
 texで完成版の修正しているためtex版完成後web版を更新する
 
-[☆☆☆研究論文paperPDFはこちら](research/135753B_dissertation_190404.pdf)
+[**☆☆☆研究論文paperPDFはこちら**](research/135753B_dissertation_190404.pdf)
 
 190404 初版から大幅に加筆・修正を行った
 
